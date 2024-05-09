@@ -1,0 +1,14 @@
+The available commands are:
+"List" to view all laptops.
+"Specs:" to find specs of a particular laptop.
+"Buy:" to know the specs and visit the product.
+"List Specs" "to view all laptops and their specs.
+"Recommended" "to view the recommended laptops and its specs.
+"Envy" to view Envy laptops.
+"Omen" to view OMEN laptops.
+"ASUS" to view ASUS laptops.
+"Envy specs" to view specs of all Envy laptops.
+"Omen specs" to view specs of all OMEN laptops.
+"ASUS specs" to view specs of all ASUS laptops.
+"help" to view available commands
+Enter "exit" to exit.
