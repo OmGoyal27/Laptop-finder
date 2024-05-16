@@ -3,4 +3,5 @@ This project was originally made so that I could decide which laptop will I buy 
 
 
 Warning: This project is not an advice for buying a laptop. You should do your own research before making any purchase. 
+
 This project is for fun and educational purposes only.
